@@ -51,5 +51,13 @@ fun main (){
     }
 
     println(result)
+
+    // If statement can also be used as an expression
+    var myName : String? = null
+
+    var myNameTobe : String? = if (myName!=null) myName else null
+    println(myName)
+    //output
+    // null
 }
 

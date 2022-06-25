@@ -1,7 +1,11 @@
+// Kotlin is a statically typed language developed by jetbrains. It's been around since 2011
+
+ 
+
 fun main(args: Array<String>) {
     println("Hello ali")
 
-    // how to create constants
+    // how to create constants/ Read only varriables. They can not be reassigned.
     val a:Int = 10
     val pi:Double = 20.9
     val k : Float = 30.8f
@@ -10,6 +14,8 @@ fun main(args: Array<String>) {
     var number :Int = 10
     number = 20;
     //number = "" this will cause error obviously
+
+    
 
 
     // Type conversion
