@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a334f79-4c56-4b40-9241-075504eb537f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/24 Object Declaractions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/25 Enum Classes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/26 SealedClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/27 DataClasses.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/23 CompanionObjects.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/23 CompanionObjects.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/24 Object Declaractions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/24 Object Declaractions.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +48,7 @@
       <command value="// In Kotlin we can define varraibles outside of any functions or classes.  var myNameOutSideOfAnyFunctionOrClass" />
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin._22_object_expressionKt">
-    <configuration name="_16_ClassesWithSecondaryConstructorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_16_ClassesWithSecondaryConstructorsKt" />
-      <module name="KotlinLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_17_MethodsAndElvisOperatorClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_17_MethodsAndElvisOperatorClassesKt" />
-      <module name="KotlinLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._27_DataClassesKt">
     <configuration name="_19_InterfacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_19_InterfacesKt" />
       <module name="KotlinLearning" />
@@ -82,13 +70,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_25_Enum_ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_25_Enum_ClassesKt" />
+      <module name="KotlinLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_27_DataClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_27_DataClassesKt" />
+      <module name="KotlinLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._27_DataClassesKt" />
+        <item itemvalue="Kotlin._25_Enum_ClassesKt" />
         <item itemvalue="Kotlin._22_object_expressionKt" />
         <item itemvalue="Kotlin._20_type_checking_and_type_casting_in_kotlinKt" />
         <item itemvalue="Kotlin._19_InterfacesKt" />
-        <item itemvalue="Kotlin._17_MethodsAndElvisOperatorClassesKt" />
-        <item itemvalue="Kotlin._16_ClassesWithSecondaryConstructorsKt" />
       </list>
     </recent_temporary>
   </component>
