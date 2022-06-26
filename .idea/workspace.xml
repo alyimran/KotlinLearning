@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a334f79-4c56-4b40-9241-075504eb537f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/9 Nullability.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CollectionsAndIterations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/12 Maps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/13 mutable vs immutable collections in kotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/14 varargsNamedParametersAndDefaultParameters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/15 ClassesWithPrimaryConstructor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/16 ClassesWithSecondaryConstructors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/17 MethodsAndElvisOperatorClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/18 VisibilityOperatorsInClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/19 Interfaces.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/20 type checking and type casting in kotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/21 Inheritnce.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1 basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1 basics.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/8 Functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/When Expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/7 WhenAndIf Expression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/CollectionsAndIterations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/11 CollectionsAndIterations.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/VariablesOutsideOfClassOfFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/10 - VariablesOutsideOfClassOfFunctions.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,37 +56,37 @@
       <command value="// In Kotlin we can define varraibles outside of any functions or classes.  var myNameOutSideOfAnyFunctionOrClass" />
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.CollectionsAndIterationsKt">
-    <configuration name="CollectionsAndIterationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsAndIterationsKt" />
+  <component name="RunManager" selected="Kotlin._20_type_checking_and_type_casting_in_kotlinKt">
+    <configuration name="_14_varargsNamedParametersAndDefaultParametersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14_varargsNamedParametersAndDefaultParametersKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesOutsideOfClassOfFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesOutsideOfClassOfFunctionsKt" />
+    <configuration name="_16_ClassesWithSecondaryConstructorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_16_ClassesWithSecondaryConstructorsKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7_WhenAndIf_ExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_WhenAndIf_ExpressionKt" />
+    <configuration name="_17_MethodsAndElvisOperatorClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_17_MethodsAndElvisOperatorClassesKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_8_FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_8_FunctionsKt" />
+    <configuration name="_19_InterfacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_19_InterfacesKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9_NullabilityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_9_NullabilityKt" />
+    <configuration name="_20_type_checking_and_type_casting_in_kotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_20_type_checking_and_type_casting_in_kotlinKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.CollectionsAndIterationsKt" />
-        <item itemvalue="Kotlin._7_WhenAndIf_ExpressionKt" />
-        <item itemvalue="Kotlin.VariablesOutsideOfClassOfFunctionsKt" />
-        <item itemvalue="Kotlin._9_NullabilityKt" />
-        <item itemvalue="Kotlin._8_FunctionsKt" />
+        <item itemvalue="Kotlin._20_type_checking_and_type_casting_in_kotlinKt" />
+        <item itemvalue="Kotlin._19_InterfacesKt" />
+        <item itemvalue="Kotlin._17_MethodsAndElvisOperatorClassesKt" />
+        <item itemvalue="Kotlin._16_ClassesWithSecondaryConstructorsKt" />
+        <item itemvalue="Kotlin._14_varargsNamedParametersAndDefaultParametersKt" />
       </list>
     </recent_temporary>
   </component>
