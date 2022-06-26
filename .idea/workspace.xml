@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a334f79-4c56-4b40-9241-075504eb537f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/12 Maps.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/13 mutable vs immutable collections in kotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/14 varargsNamedParametersAndDefaultParameters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/15 ClassesWithPrimaryConstructor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/16 ClassesWithSecondaryConstructors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/17 MethodsAndElvisOperatorClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/18 VisibilityOperatorsInClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/19 Interfaces.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/20 type checking and type casting in kotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/21 Inheritnce.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/22 object expression.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/CollectionsAndIterations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/11 CollectionsAndIterations.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/VariablesOutsideOfClassOfFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/10 - VariablesOutsideOfClassOfFunctions.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -56,14 +45,7 @@
       <command value="// In Kotlin we can define varraibles outside of any functions or classes.  var myNameOutSideOfAnyFunctionOrClass" />
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin._20_type_checking_and_type_casting_in_kotlinKt">
-    <configuration name="_14_varargsNamedParametersAndDefaultParametersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_14_varargsNamedParametersAndDefaultParametersKt" />
-      <module name="KotlinLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._22_object_expressionKt">
     <configuration name="_16_ClassesWithSecondaryConstructorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_16_ClassesWithSecondaryConstructorsKt" />
       <module name="KotlinLearning" />
@@ -92,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_22_object_expressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_22_object_expressionKt" />
+      <module name="KotlinLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._22_object_expressionKt" />
         <item itemvalue="Kotlin._20_type_checking_and_type_casting_in_kotlinKt" />
         <item itemvalue="Kotlin._19_InterfacesKt" />
         <item itemvalue="Kotlin._17_MethodsAndElvisOperatorClassesKt" />
         <item itemvalue="Kotlin._16_ClassesWithSecondaryConstructorsKt" />
-        <item itemvalue="Kotlin._14_varargsNamedParametersAndDefaultParametersKt" />
       </list>
     </recent_temporary>
   </component>
