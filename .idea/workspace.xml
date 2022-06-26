@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a334f79-4c56-4b40-9241-075504eb537f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/22 object expression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/24 Object Declaractions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/23 CompanionObjects.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/23 CompanionObjects.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
